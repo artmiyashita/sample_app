@@ -1,6 +1,7 @@
 # README
 
-2018/10/18
+2018/10/18 next
+https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#cha-filling_in_the_layout
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
