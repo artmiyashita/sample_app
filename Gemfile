@@ -10,7 +10,8 @@ gem 'foundation-rails'
 gem 'autoprefixer-rails'
 gem 'foundation-icons-sass-rails'
 gem 'simple_form'
-gem "jquery-rails"
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
