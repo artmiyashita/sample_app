@@ -10,5 +10,10 @@
   <%= link_to "Sign up now!", '#', class: "btn btn-lg btn-primary" %>
 </div>
 
+<p id="hoge">赤色になるよ</p>
+<script>
+  $("#hoge").css("color","red")
+</script>
+
 <%= link_to image_tag("rails.png", alt: "Rails logo"),
             'http://rubyonrails.org/' %>

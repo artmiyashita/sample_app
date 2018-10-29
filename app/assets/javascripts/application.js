@@ -13,4 +13,8 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
-//= require_tree .
+// require_tree . //コメントアウト中
+//= require jquery
+//= require jquery_ujs
+//= require foundation
+$(function(){ $(document).foundation(); });
