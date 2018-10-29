@@ -1,9 +1,13 @@
 # README
 2018/10/29
+<<<<<<< HEAD
 git push origin master
 何故か削除したマスターがいる件
 統合失敗
 
+=======
+git remote rm heroku
+>>>>>>> sample_app_master
 
 2018/10/18 next
 https://railstutorial.jp/chapters/filling_in_the_layout?version=5.1#cha-filling_in_the_layout
