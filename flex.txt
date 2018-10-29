@@ -3,18 +3,18 @@
   <input type=“hidden” name=“dtime” value=“Mon, 29 Oct 2018 08:00:04 GMT” />
   <input type=“hidden” name=“clientId” value=“fea68bd40104e4a85ac9a813502a2820” />
   <input type=“hidden” name=“resultType” value=“html” />
-  <input type=“hidden” name=“returnURL” value=“http://<ECサイト戻り先ページ>” />
-  <input type=“hidden” name=“errorURL” value=“http://<ECサイトエラー表示ページ>” />
+  <input type=“hidden” name=“returnURL” value=“https://enigmatic-castle-22053.herokuapp.com/” />
+  <input type=“hidden” name=“errorURL” value=“https://enigmatic-castle-22053.herokuapp.com/” />
   <input type=“hidden” name=“editorType” value=“general” />
   <input type=“hidden” name=“purposeName” value=“user” />
   <input type=“hidden” name=“resourceType” value=“template” />
   <input type=“hidden” name=“pageSaveMode” value=“document”/>
-  <input type=“hidden” name=“pageSavePath” value=“/documents/ + <ドキュメントの保存先パス>” />
+  <input type=“hidden” name=“pageSavePath” value=“/documents/5642ef78c0a80029709dc6b356afb66e” />
   <input type=“hidden” name=“savedAtEnd” value=“true”/>
   <input type=“hidden” name=“srcType” value=“trackingId” />
-  <input type=“hidden” name=“trackingId” value=“<テンプレートのtrackingId>” />
-  <input type=“hidden” name=“editorMaterialBasePath” value=“＜素材の参照先パス＞" />
-  <input type=“hidden” name=“editorCassetteBasePath” value=“＜カセットの参照先パス＞" />
+  <input type=“hidden” name=“trackingId” value=“5642ef78c0a80029709dc6b356afb66e” />
+  <input type=“hidden” name=“editorMaterialBasePath” value=“5642ef78c0a80029709dc6b356afb66e" />
+  <input type=“hidden” name=“editorCassetteBasePath” value=“5642ef78c0a80029709dc6b356afb66e" />
   <input type=“hidden” name=“forceLayout” value=“true” />
   <input type=“hidden” name=“multiMode” value=“false”/>
 </form>
